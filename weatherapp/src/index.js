@@ -14,7 +14,7 @@ root.render(
       <br />
       <p>
         <a
-          href="https://github.com/evaw277/react-weather"
+          href="https://github.com/WadzanayiK/weather"
           target="_blank"
           rel="noreferrer"
         >
